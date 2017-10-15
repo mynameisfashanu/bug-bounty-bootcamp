@@ -15,6 +15,7 @@ Path to learning web security and bug bounties
   * The Tangled Web.
   * Hacker Playbook 2.
   * Blackhat python.
+  * The Mobile Application Hacker's Handbook
 * **Practice**
   * Bug Bounties.
   * Exploit exercises.
