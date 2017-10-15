@@ -7,7 +7,6 @@ Path to learning web security and bug bounties
 * **Courses** 
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [CNIT 129S: Securing Web Application](https://samsclass.info/129S/129S_F16.shtml)
-  * [Matasano Crypto Challenges](https://cryptopals.com/)
 * **Books**
   * Hacking the art of Exploitation.
   * Web Hacking 101.
@@ -15,7 +14,6 @@ Path to learning web security and bug bounties
   * The Tangled Web.
   * Hacker Playbook 2.
   * Blackhat python.
-  * The Mobile Application Hacker's Handbook
 * **Practice**
   * Bug Bounties.
   * Exploit exercises.
