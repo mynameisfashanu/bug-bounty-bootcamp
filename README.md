@@ -7,7 +7,8 @@ Path to learning web security and bug bounties
 * **Courses** 
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [CNIT 129S: Securing Web Application](https://samsclass.info/129S/129S_F16.shtml)
-  * [Fundamentals of network communications](https://www.coursera.org/learn/fundamentals-network-communications)
+  * [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+  * [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 * **Books**
   * Hacking the art of Exploitation.
   * Web Hacking 101.
