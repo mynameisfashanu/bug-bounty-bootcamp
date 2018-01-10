@@ -4,10 +4,10 @@ Path to learning web security and bug bounties
 
 ### Web Security - Bug Bounty Programs
 
-* **Courses** 
+* **Courses**
+  * [Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/index-summer.html)
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [Linux fundamentals](https://ryanstutorials.net/linuxtutorial/)
-  * [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
   * [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
   * [CNIT 129S: Securing Web Application](https://samsclass.info/129S/129S_F16.shtml)
   * [Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
