@@ -9,8 +9,6 @@ Path to learning web security and bug bounties
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [Linux fundamentals](https://ryanstutorials.net/linuxtutorial/)
   * [CNIT 129S: Securing Web Application](https://samsclass.info/129S/129S_F16.shtml)
-  * [Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
-  * [Matasano crypto challenges](https://cryptopals.com/)
 * **Books**
   * Hacking the art of Exploitation.
   * Web Hacking 101.
