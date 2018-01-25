@@ -6,6 +6,7 @@ Path to learning web security and bug bounties
 
 * **Courses**
   * [Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/index-summer.html)
+  * [Web Hacking 101](https://www.hacker101.com/)
   * [CTF Field Guide](https://trailofbits.github.io/ctf/)
   * [Linux fundamentals](https://ryanstutorials.net/linuxtutorial/)
   * [CNIT 129S: Securing Web Application](https://samsclass.info/129S/129S_F16.shtml)
